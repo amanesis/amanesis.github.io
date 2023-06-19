@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My GitHub Pages Site</title>
+  <!-- Add any CSS stylesheets or external libraries here -->
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to My GitHub Pages Site</h1>
+    <!-- Add navigation links or any other header content here -->
+  </header>
+
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>This is where you can introduce yourself and provide some information about your background, skills, and interests.</p>
+    </section>
+
+    <section>
+      <h2>My CV</h2>
+      <!-- Add your CV content here, such as a list of experiences, education, or skills -->
+    </section>
+
+    <section>
+      <h2>My Projects</h2>
+      <!-- Showcase your projects here, such as descriptions, screenshots, or links to code repositories -->
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Your Name. All rights reserved.</p>
+    <!-- Add any footer content or links to social media profiles here -->
+  </footer>
+</body>
+</html>
